@@ -4,8 +4,8 @@ class Person
     @name = name
   end
   
-  def job
-    @job = job
+  def name
+    @name 
   end
   
   
